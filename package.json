@@ -1,0 +1,11 @@
+{
+  "name": "trex",
+  "version": "0.0.1",
+  "description": "The frontend application for trex",
+  "dependencies": {
+
+  },
+  "devDependencies": {
+    "express": "^4.12.3"
+  }
+}
